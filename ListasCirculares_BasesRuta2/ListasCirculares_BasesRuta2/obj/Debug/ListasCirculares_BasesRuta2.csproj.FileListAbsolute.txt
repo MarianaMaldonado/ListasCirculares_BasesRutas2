@@ -1,0 +1,10 @@
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasCirculares_BasesRuta2\ListasCirculares_BasesRuta2\bin\Debug\ListasCirculares_BasesRuta2.exe.config
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasCirculares_BasesRuta2\ListasCirculares_BasesRuta2\bin\Debug\ListasCirculares_BasesRuta2.exe
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasCirculares_BasesRuta2\ListasCirculares_BasesRuta2\bin\Debug\ListasCirculares_BasesRuta2.pdb
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasCirculares_BasesRuta2\ListasCirculares_BasesRuta2\obj\Debug\ListasCirculares_BasesRuta2.Form1.resources
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasCirculares_BasesRuta2\ListasCirculares_BasesRuta2\obj\Debug\ListasCirculares_BasesRuta2.Properties.Resources.resources
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasCirculares_BasesRuta2\ListasCirculares_BasesRuta2\obj\Debug\ListasCirculares_BasesRuta2.csproj.GenerateResource.Cache
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasCirculares_BasesRuta2\ListasCirculares_BasesRuta2\obj\Debug\ListasCirculares_BasesRuta2.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasCirculares_BasesRuta2\ListasCirculares_BasesRuta2\obj\Debug\ListasCirculares_BasesRuta2.exe
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasCirculares_BasesRuta2\ListasCirculares_BasesRuta2\obj\Debug\ListasCirculares_BasesRuta2.pdb
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\ListasCirculares_BasesRuta2\ListasCirculares_BasesRuta2\obj\Debug\ListasCirculares_BasesRuta2.csprojResolveAssemblyReference.cache
